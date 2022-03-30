@@ -41,12 +41,11 @@ body {
 
 #display {
   margin: 0 10px;
-  height: 140px;
+  height: 100px;
   width: auto;
-  max-width: 260px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-start;
+  padding: 20px;
+  max-width: 270px;
+  text-align: right;
   font-size: 30px;
   margin-bottom: 20px;
   overflow-x: scroll;
